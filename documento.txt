@@ -1,0 +1,3 @@
+Este es un mensaje utilizando ajax
+
+Nota: Debes usar un servidor web por ejemplo Xampp
